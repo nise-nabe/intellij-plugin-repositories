@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <plugins>
-  <plugin id="com.nisecoder.intellij.armeria-intellij-plugin" url="https://github.com/nise-nabe/armeria-intellij-plugin/releases/download/v0.0.1/armeria-intellij-plugin-0.0.1.zip" version="0.0.1">
+  <plugin id="com.nisecoder.intellij.armeria-intellij-plugin" url="https://github.com/nise-nabe/armeria-intellij-plugin/releases/download/v0.0.4/armeria-intellij-plugin-0.0.4.zip" version="0.0.4">
     <name>Armeria Intellij Plugin</name>
   </plugin>
 </plugins>
